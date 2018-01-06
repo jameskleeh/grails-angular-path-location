@@ -1,0 +1,7 @@
+src/main/webapp/**
+.gradle
+.idea
+build/
+**/.DS_Store
+./src/main/client/node_modules
+*.iml
